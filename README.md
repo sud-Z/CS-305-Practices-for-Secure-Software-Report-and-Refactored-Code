@@ -1,5 +1,5 @@
 # CS-305-Practices-for-Secure-Software-Report-and-Refactored-Code
-<h1> Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address? </h1>
+<h3> Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address? </h3>
 # What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
 # What about the process of working through the vulnerability assessment did you find challenging or helpful?
 # How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
